@@ -4,7 +4,7 @@
 
 # Índice
 
-1. [O que é?](#o-que-é?) 🤔
+1. [O que é?](#o-que-e?) 🤔
 2. [Tecnologias](#tecnologias) ⚛️
 3. [Processo](#processo) 🚵
     1. [Aula 1](#aula-1)
